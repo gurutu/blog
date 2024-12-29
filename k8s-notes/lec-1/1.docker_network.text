@@ -1,0 +1,11 @@
+bydefault docker connect "bridge"
+
+To see all network 
+> docker network ls 
+inspact network
+> docker network inspect <NETWORK_ID>
+connect newwork and disconnect
+> docker network disconnect <network_name> <container_name>
+> docker network connect <network_name> <container_name>
+create network 
+> docker network create -d bridge <network_name>

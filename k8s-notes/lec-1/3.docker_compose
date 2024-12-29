@@ -1,0 +1,36 @@
+compose up
+> docker compose up
+down
+> docker compose down
+
+
+
+```
+services:
+    container1:
+        image: ubuntu
+        command: "sleep 9999"
+        volumes: 
+            - common-volume:/app
+        networks:
+            - custom-net
+    container2:
+        image: myapp:1.0.0
+        ports:
+            - 8080:8080
+        volumes:
+            - common-volume:/app
+        networks:
+            - custom-net
+
+
+volumes:
+    common-volumn:
+
+networks:
+    custom-net:
+        driver: bridge
+
+```
+
+

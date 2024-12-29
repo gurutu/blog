@@ -1,0 +1,15 @@
+list of volume
+> docker volume ls 
+create volumn 
+> docker volumn create v1
+mount
+> docker run --mount source=v1 target=/app1 -it ubuntu
+inspect
+> docker volume inspect <volume_id>
+bind localfile
+> docker run --mount type=bind,source="/user/username/document/" ,target=/app1 -it ubuntu
+
+exec cmd
+> docker exec -it <container_id> /bin/sh
+
+
