@@ -120,6 +120,10 @@ public class ExampleNameResolver extends NameResolver {
 ```
 creating connection 
 ```java
+ NameResolverRegistry.getDefaultRegistry().register(new ExampleNameResolverProvider());
+
+        String target = String.format("%s:///%s", exampleScheme, exampleServiceName);
+
  logger.info("Change to round_robin policy");
         ManagedChannel channel = ManagedChannelBuilder.forTarget(target)
                 .defaultLoadBalancingPolicy("round_robin")
