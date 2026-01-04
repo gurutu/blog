@@ -245,7 +245,3 @@ This builds the "systems thinking" mindset.
 **Remember**: Consistency beats intensity. You've started the journey - that's the hardest part! 🎉
 
 ---
-
-**Need help?** Questions about today's content? Reply here and I'll clarify within hours.
-
-**Ready for Day 2?** Let me know when you complete Day 1!

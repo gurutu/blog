@@ -325,5 +325,3 @@ When NOT to index:
 **Remember**: SQL databases power the world's financial systems. Master these fundamentals!
 
 ---
-
-**Ready for NoSQL tomorrow?** This is where systems get really interesting at scale! 🚀

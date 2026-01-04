@@ -337,4 +337,3 @@ Big tech companies aren't just looking for correct answers - they're evaluating:
 
 **Success Formula**: (Strong Fundamentals × Practice) + Clear Communication + Right Mindset
 
-Would you like me to elaborate on any specific week's plan or provide a detailed study template for any particular company?

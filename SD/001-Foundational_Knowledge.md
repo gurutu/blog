@@ -126,5 +126,3 @@ Mastering system design is a journey that requires structured learning and pract
 5. **Join communities**: System design discussions on Reddit, Discord, or with peers
 
 Remember, system design mastery comes from **understanding principles + practical application + continuous learning**. It's not about memorizing solutions, but developing the mindset to approach any design problem methodically.
-
-Would you like me to elaborate on any specific aspect or provide a study plan for your current level?

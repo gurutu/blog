@@ -293,7 +293,3 @@ Draw multi-level cache architecture:
 **Remember**: Caching is often the difference between a slow system and a fast one. Master this!
 
 ---
-
-**Need clarification?** Ask now before we move to databases tomorrow!
-
-**Ready?** Let's continue building your system design foundation! 🚀
